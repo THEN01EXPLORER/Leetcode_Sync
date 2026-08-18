@@ -20,6 +20,5 @@ public:
             }
         }
         reverse(nums.begin()+ind +1,nums.end());
-
     }
 };
